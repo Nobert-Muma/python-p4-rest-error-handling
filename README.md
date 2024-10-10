@@ -1,4 +1,4 @@
-# Error Handling In RESTful APIs
+# Error Handling In RESTful APIs.
 
 ## Learning Goals
 
